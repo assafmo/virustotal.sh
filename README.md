@@ -2,8 +2,10 @@
 Query VirusTotal.com for malicious sha256 / sha1 / md5
 
 # Installation
+```bash
 curl -sSLf https://raw.githubusercontent.com/assafmo/virustotal.sh/master/virustotal.sh | sudo tee /usr/local/bin/virustotal > /dev/null
 sudo chmod +x /usr/local/bin/virustotal
+```
 
 # Usage
 ```bash
