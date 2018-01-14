@@ -9,6 +9,9 @@ sudo chmod +x /usr/local/bin/virustotal
 
 # Usage
 ```bash
+virustotal <md5/sha1/sha256>
+```
+```bash
 $ virustotal e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 {
   "data": {
